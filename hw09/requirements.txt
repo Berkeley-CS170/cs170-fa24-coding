@@ -1,0 +1,5 @@
+networkx>=3.4.2
+numpy
+otter-grader~=5.5.0
+pulp
+tqdm
